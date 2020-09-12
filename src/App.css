@@ -1,0 +1,66 @@
+.App {
+  background-color: whitesmoke;
+}
+
+p, b{
+  font-size: 90%;
+}
+
+.img-fluid{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  background-image: contain;
+  
+}
+
+.col, .row{
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  border-radius: 3%;
+}
+
+th{
+  font-weight: normal;
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 0%;
+}
+
+td{
+  text-align: center;
+  font-weight: bold;
+  background-color: white;
+  padding: 0%;
+}
+
+.f1 {
+  background-color: white;
+}
+
+.f3 {
+  font-weight: bold;
+  background-color: white;
+  
+  
+}
+
+.f4 {
+  font-weight: normal;  
+}
+
+.container-fluid{
+  max-height: 100px;
+}
+
+.pad{
+  margin: 10px;
+}
+
+.col-eq-height{
+  border-radius: 3%;
+  margin-bottom: 0%;
+}
